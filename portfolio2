@@ -148,12 +148,10 @@
         </nav>
 
         <div class="content">
-            <span class="title">Freelance Web Developer</span>
-            <h1>Hello, I’m <span>emma</span></h1>
+            <span class="title">cyber security</span>
+            <h1>Hello, I’m <span>Rabina</span></h1>
             <p>
-                I’m working on a professional, visually sophisticated and
-                technologically proficient, responsive and multi-functional React
-                Components.
+                I’m working on a cloud, cyber security and networking.
             </p>
             <a href="#" class="btn">Download CV</a>
         </div>
